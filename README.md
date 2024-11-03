@@ -1,4 +1,4 @@
-![צילום מסך 2024-11-03 102915](https://github.com/user-attachments/assets/2c93b85e-9920-420b-a93e-f1afd7274acf)# Dog Barber Shop Client
+ Dog Barber Shop Client
 
 הקליינט של מערכת ניהול התורים עבור מספרת כלבים. אפליקציית צד לקוח זו נבנתה באמצעות React ומתחברת ל-API באמצעות JWT לאוטנטיקציה.
 
